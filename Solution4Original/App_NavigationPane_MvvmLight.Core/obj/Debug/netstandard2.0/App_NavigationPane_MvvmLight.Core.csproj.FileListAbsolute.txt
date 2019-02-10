@@ -1,0 +1,3 @@
+D:\Users\udoug\source\repos\MyWindowsTemplatePackDemo\Solution4Original\App_NavigationPane_MvvmLight.Core\obj\Debug\netstandard2.0\App_NavigationPane_MvvmLight.Core.csproj.CoreCompileInputs.cache
+D:\Users\udoug\source\repos\MyWindowsTemplatePackDemo\Solution4Original\App_NavigationPane_MvvmLight.Core\obj\Debug\netstandard2.0\App_NavigationPane_MvvmLight.Core.AssemblyInfoInputs.cache
+D:\Users\udoug\source\repos\MyWindowsTemplatePackDemo\Solution4Original\App_NavigationPane_MvvmLight.Core\obj\Debug\netstandard2.0\App_NavigationPane_MvvmLight.Core.AssemblyInfo.cs

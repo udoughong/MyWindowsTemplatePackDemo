@@ -1,0 +1,9 @@
+D:\Users\udoug\Source\Repos\MyWindowsTemplatePackDemo\Solution4Original\App_Blank_CodeBehind.Core\obj\Debug\netstandard2.0\App_Blank_CodeBehind.Core.csproj.CoreCompileInputs.cache
+D:\Users\udoug\Source\Repos\MyWindowsTemplatePackDemo\Solution4Original\App_Blank_CodeBehind.Core\obj\Debug\netstandard2.0\App_Blank_CodeBehind.Core.AssemblyInfoInputs.cache
+D:\Users\udoug\Source\Repos\MyWindowsTemplatePackDemo\Solution4Original\App_Blank_CodeBehind.Core\obj\Debug\netstandard2.0\App_Blank_CodeBehind.Core.AssemblyInfo.cs
+D:\Users\udoug\Source\Repos\MyWindowsTemplatePackDemo\Solution4Original\App_Blank_CodeBehind.Core\bin\Debug\netstandard2.0\App_Blank_CodeBehind.Core.deps.json
+D:\Users\udoug\Source\Repos\MyWindowsTemplatePackDemo\Solution4Original\App_Blank_CodeBehind.Core\bin\Debug\netstandard2.0\App_Blank_CodeBehind.Core.dll
+D:\Users\udoug\Source\Repos\MyWindowsTemplatePackDemo\Solution4Original\App_Blank_CodeBehind.Core\bin\Debug\netstandard2.0\App_Blank_CodeBehind.Core.pdb
+D:\Users\udoug\Source\Repos\MyWindowsTemplatePackDemo\Solution4Original\App_Blank_CodeBehind.Core\obj\Debug\netstandard2.0\App_Blank_CodeBehind.Core.csprojAssemblyReference.cache
+D:\Users\udoug\Source\Repos\MyWindowsTemplatePackDemo\Solution4Original\App_Blank_CodeBehind.Core\obj\Debug\netstandard2.0\App_Blank_CodeBehind.Core.dll
+D:\Users\udoug\Source\Repos\MyWindowsTemplatePackDemo\Solution4Original\App_Blank_CodeBehind.Core\obj\Debug\netstandard2.0\App_Blank_CodeBehind.Core.pdb

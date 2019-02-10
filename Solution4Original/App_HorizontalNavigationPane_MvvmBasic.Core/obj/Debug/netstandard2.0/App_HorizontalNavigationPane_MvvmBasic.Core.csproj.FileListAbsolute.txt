@@ -1,0 +1,3 @@
+D:\Users\udoug\source\repos\MyWindowsTemplatePackDemo\Solution4Original\App_HorizontalNavigationPane_MvvmBasic.Core\obj\Debug\netstandard2.0\App_HorizontalNavigationPane_MvvmBasic.Core.csproj.CoreCompileInputs.cache
+D:\Users\udoug\source\repos\MyWindowsTemplatePackDemo\Solution4Original\App_HorizontalNavigationPane_MvvmBasic.Core\obj\Debug\netstandard2.0\App_HorizontalNavigationPane_MvvmBasic.Core.AssemblyInfoInputs.cache
+D:\Users\udoug\source\repos\MyWindowsTemplatePackDemo\Solution4Original\App_HorizontalNavigationPane_MvvmBasic.Core\obj\Debug\netstandard2.0\App_HorizontalNavigationPane_MvvmBasic.Core.AssemblyInfo.cs
