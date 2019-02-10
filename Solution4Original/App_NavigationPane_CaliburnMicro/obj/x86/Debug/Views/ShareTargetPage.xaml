@@ -1,0 +1,36 @@
+﻿<Page x:ConnectionId='1'
+    x:Class="App_NavigationPane_CaliburnMicro.Views.ShareTargetPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Style="{StaticResource PageStyle}"
+    xmlns:cm="using:Caliburn.Micro"
+    mc:Ignorable="d">
+    <Grid x:ConnectionId='2'
+        x:Name="ContentArea">
+
+        <Grid.RowDefinitions>
+            <RowDefinition x:ConnectionId='3' x:Name="TitleRow" Height="48"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="48"/>
+        </Grid.RowDefinitions>
+
+        <Grid Margin="{StaticResource MediumLeftRightMargin}">
+            <TextBlock x:ConnectionId='5'
+                x:Name="TitlePage"
+                                                              
+                Style="{StaticResource PageTitleStyle}" />
+        </Grid>
+
+        <ContentControl x:ConnectionId='4' Grid.Row="1"                                               />
+        <Button
+            Grid.Row="2"
+            x:Uid="ShareTarget_CompleteButton"
+            VerticalAlignment="Center"
+            HorizontalAlignment="Right"
+            Margin="{StaticResource MediumLeftRightMargin}"
+            cm:Message.Attach="Complete" />
+    </Grid>
+</Page>
+

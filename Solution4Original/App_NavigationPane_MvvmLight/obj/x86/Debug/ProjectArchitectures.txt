@@ -1,0 +1,1 @@
+D:\Users\udoug\source\repos\MyWindowsTemplatePackDemo\Solution4Original\App_NavigationPane_MvvmLight\App_NavigationPane_MvvmLight.csproj;x86

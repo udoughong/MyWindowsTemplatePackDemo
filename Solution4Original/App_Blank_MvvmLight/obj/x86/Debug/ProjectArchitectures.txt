@@ -1,0 +1,1 @@
+D:\Users\udoug\source\repos\MyWindowsTemplatePackDemo\Solution4Original\App_Blank_MvvmLight\App_Blank_MvvmLight.csproj;x86

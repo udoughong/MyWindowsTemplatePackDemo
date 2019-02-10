@@ -1,0 +1,1 @@
+D:\Users\udoug\source\repos\MyWindowsTemplatePackDemo\Solution4Original\App_HorizontalNavigationPane_MvvmBasic\App_HorizontalNavigationPane_MvvmBasic.csproj;x86

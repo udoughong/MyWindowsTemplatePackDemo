@@ -1,0 +1,9 @@
+D:\Users\udoug\source\repos\MyWindowsTemplatePackDemo\Solution4Original\App_Blank_CaliburnMicro.Core\obj\Debug\netstandard2.0\App_Blank_CaliburnMicro.Core.csproj.CoreCompileInputs.cache
+D:\Users\udoug\source\repos\MyWindowsTemplatePackDemo\Solution4Original\App_Blank_CaliburnMicro.Core\obj\Debug\netstandard2.0\App_Blank_CaliburnMicro.Core.AssemblyInfoInputs.cache
+D:\Users\udoug\source\repos\MyWindowsTemplatePackDemo\Solution4Original\App_Blank_CaliburnMicro.Core\obj\Debug\netstandard2.0\App_Blank_CaliburnMicro.Core.AssemblyInfo.cs
+D:\Users\udoug\source\repos\MyWindowsTemplatePackDemo\Solution4Original\App_Blank_CaliburnMicro.Core\bin\Debug\netstandard2.0\App_Blank_CaliburnMicro.Core.deps.json
+D:\Users\udoug\source\repos\MyWindowsTemplatePackDemo\Solution4Original\App_Blank_CaliburnMicro.Core\bin\Debug\netstandard2.0\App_Blank_CaliburnMicro.Core.dll
+D:\Users\udoug\source\repos\MyWindowsTemplatePackDemo\Solution4Original\App_Blank_CaliburnMicro.Core\bin\Debug\netstandard2.0\App_Blank_CaliburnMicro.Core.pdb
+D:\Users\udoug\source\repos\MyWindowsTemplatePackDemo\Solution4Original\App_Blank_CaliburnMicro.Core\obj\Debug\netstandard2.0\App_Blank_CaliburnMicro.Core.csprojAssemblyReference.cache
+D:\Users\udoug\source\repos\MyWindowsTemplatePackDemo\Solution4Original\App_Blank_CaliburnMicro.Core\obj\Debug\netstandard2.0\App_Blank_CaliburnMicro.Core.dll
+D:\Users\udoug\source\repos\MyWindowsTemplatePackDemo\Solution4Original\App_Blank_CaliburnMicro.Core\obj\Debug\netstandard2.0\App_Blank_CaliburnMicro.Core.pdb

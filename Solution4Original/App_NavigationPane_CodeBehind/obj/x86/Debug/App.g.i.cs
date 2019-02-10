@@ -8,6 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
+
 namespace App_NavigationPane_CodeBehind
 {
 #if !DISABLE_XAML_GENERATED_MAIN

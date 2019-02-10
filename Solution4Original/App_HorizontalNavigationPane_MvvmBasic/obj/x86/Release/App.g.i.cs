@@ -8,7 +8,6 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-
 namespace App_HorizontalNavigationPane_MvvmBasic
 {
 #if !DISABLE_XAML_GENERATED_MAIN
