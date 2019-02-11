@@ -7,7 +7,6 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-
 namespace App_NavigationPane_CaliburnMicro
 {
     public partial class App : global::Windows.UI.Xaml.Markup.IXamlMetadataProvider

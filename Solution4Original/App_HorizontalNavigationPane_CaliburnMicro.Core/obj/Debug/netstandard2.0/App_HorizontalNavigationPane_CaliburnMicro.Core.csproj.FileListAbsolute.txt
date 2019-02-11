@@ -1,0 +1,3 @@
+D:\Users\udoug\source\repos\MyWindowsTemplatePackDemo\Solution4Original\App_HorizontalNavigationPane_CaliburnMicro.Core\obj\Debug\netstandard2.0\App_HorizontalNavigationPane_CaliburnMicro.Core.csproj.CoreCompileInputs.cache
+D:\Users\udoug\source\repos\MyWindowsTemplatePackDemo\Solution4Original\App_HorizontalNavigationPane_CaliburnMicro.Core\obj\Debug\netstandard2.0\App_HorizontalNavigationPane_CaliburnMicro.Core.AssemblyInfoInputs.cache
+D:\Users\udoug\source\repos\MyWindowsTemplatePackDemo\Solution4Original\App_HorizontalNavigationPane_CaliburnMicro.Core\obj\Debug\netstandard2.0\App_HorizontalNavigationPane_CaliburnMicro.Core.AssemblyInfo.cs

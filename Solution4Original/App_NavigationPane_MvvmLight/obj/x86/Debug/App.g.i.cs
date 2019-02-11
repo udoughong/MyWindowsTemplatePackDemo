@@ -8,7 +8,6 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-
 namespace App_NavigationPane_MvvmLight
 {
 #if !DISABLE_XAML_GENERATED_MAIN
