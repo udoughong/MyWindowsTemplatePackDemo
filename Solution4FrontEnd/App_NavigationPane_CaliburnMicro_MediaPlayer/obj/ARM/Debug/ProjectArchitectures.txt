@@ -1,0 +1,1 @@
+D:\Users\udoug\source\repos\MyWindowsTemplatePackDemo\Solution4FrontEnd\App_NavigationPane_CaliburnMicro_MediaPlayer\App_NavigationPane_CaliburnMicro_MediaPlayer.csproj;arm

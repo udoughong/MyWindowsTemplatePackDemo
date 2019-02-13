@@ -1,0 +1,9 @@
+D:\Users\udoug\source\repos\MyWindowsTemplatePackDemo\Solution4FrontEnd\App_NavigationPane_CodeBehind_Blank.Core\bin\Debug\netstandard2.0\App_NavigationPane_CodeBehind_Blank.Core.deps.json
+D:\Users\udoug\source\repos\MyWindowsTemplatePackDemo\Solution4FrontEnd\App_NavigationPane_CodeBehind_Blank.Core\bin\Debug\netstandard2.0\App_NavigationPane_CodeBehind_Blank.Core.dll
+D:\Users\udoug\source\repos\MyWindowsTemplatePackDemo\Solution4FrontEnd\App_NavigationPane_CodeBehind_Blank.Core\bin\Debug\netstandard2.0\App_NavigationPane_CodeBehind_Blank.Core.pdb
+D:\Users\udoug\source\repos\MyWindowsTemplatePackDemo\Solution4FrontEnd\App_NavigationPane_CodeBehind_Blank.Core\obj\Debug\netstandard2.0\App_NavigationPane_CodeBehind_Blank.Core.csprojAssemblyReference.cache
+D:\Users\udoug\source\repos\MyWindowsTemplatePackDemo\Solution4FrontEnd\App_NavigationPane_CodeBehind_Blank.Core\obj\Debug\netstandard2.0\App_NavigationPane_CodeBehind_Blank.Core.csproj.CoreCompileInputs.cache
+D:\Users\udoug\source\repos\MyWindowsTemplatePackDemo\Solution4FrontEnd\App_NavigationPane_CodeBehind_Blank.Core\obj\Debug\netstandard2.0\App_NavigationPane_CodeBehind_Blank.Core.AssemblyInfoInputs.cache
+D:\Users\udoug\source\repos\MyWindowsTemplatePackDemo\Solution4FrontEnd\App_NavigationPane_CodeBehind_Blank.Core\obj\Debug\netstandard2.0\App_NavigationPane_CodeBehind_Blank.Core.AssemblyInfo.cs
+D:\Users\udoug\source\repos\MyWindowsTemplatePackDemo\Solution4FrontEnd\App_NavigationPane_CodeBehind_Blank.Core\obj\Debug\netstandard2.0\App_NavigationPane_CodeBehind_Blank.Core.dll
+D:\Users\udoug\source\repos\MyWindowsTemplatePackDemo\Solution4FrontEnd\App_NavigationPane_CodeBehind_Blank.Core\obj\Debug\netstandard2.0\App_NavigationPane_CodeBehind_Blank.Core.pdb

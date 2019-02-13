@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>App_NavigationPane_Prism_MediaPlayer.Core</RootNamespace>
+  </PropertyGroup>
+
+   <ItemGroup>
+    <Folder Include="Models\" />
+  </ItemGroup>
+</Project>

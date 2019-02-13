@@ -1,0 +1,9 @@
+D:\Users\udoug\source\repos\MyWindowsTemplatePackDemo\Solution4FrontEnd\App_NavigationPane_Prism_Blank.Core\bin\Debug\netstandard2.0\App_NavigationPane_Prism_Blank.Core.deps.json
+D:\Users\udoug\source\repos\MyWindowsTemplatePackDemo\Solution4FrontEnd\App_NavigationPane_Prism_Blank.Core\bin\Debug\netstandard2.0\App_NavigationPane_Prism_Blank.Core.dll
+D:\Users\udoug\source\repos\MyWindowsTemplatePackDemo\Solution4FrontEnd\App_NavigationPane_Prism_Blank.Core\bin\Debug\netstandard2.0\App_NavigationPane_Prism_Blank.Core.pdb
+D:\Users\udoug\source\repos\MyWindowsTemplatePackDemo\Solution4FrontEnd\App_NavigationPane_Prism_Blank.Core\obj\Debug\netstandard2.0\App_NavigationPane_Prism_Blank.Core.csprojAssemblyReference.cache
+D:\Users\udoug\source\repos\MyWindowsTemplatePackDemo\Solution4FrontEnd\App_NavigationPane_Prism_Blank.Core\obj\Debug\netstandard2.0\App_NavigationPane_Prism_Blank.Core.csproj.CoreCompileInputs.cache
+D:\Users\udoug\source\repos\MyWindowsTemplatePackDemo\Solution4FrontEnd\App_NavigationPane_Prism_Blank.Core\obj\Debug\netstandard2.0\App_NavigationPane_Prism_Blank.Core.AssemblyInfoInputs.cache
+D:\Users\udoug\source\repos\MyWindowsTemplatePackDemo\Solution4FrontEnd\App_NavigationPane_Prism_Blank.Core\obj\Debug\netstandard2.0\App_NavigationPane_Prism_Blank.Core.AssemblyInfo.cs
+D:\Users\udoug\source\repos\MyWindowsTemplatePackDemo\Solution4FrontEnd\App_NavigationPane_Prism_Blank.Core\obj\Debug\netstandard2.0\App_NavigationPane_Prism_Blank.Core.dll
+D:\Users\udoug\source\repos\MyWindowsTemplatePackDemo\Solution4FrontEnd\App_NavigationPane_Prism_Blank.Core\obj\Debug\netstandard2.0\App_NavigationPane_Prism_Blank.Core.pdb

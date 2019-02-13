@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>_App_NavigationPane_MvvmBasic_MediaPlayer.Core</RootNamespace>
+  </PropertyGroup>
+
+   <ItemGroup>
+    <Folder Include="Models\" />
+  </ItemGroup>
+</Project>

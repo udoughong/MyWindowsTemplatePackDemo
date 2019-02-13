@@ -1,0 +1,3 @@
+D:\Users\udoug\source\repos\MyWindowsTemplatePackDemo\Solution4Original\App_Blank_Prism.Core\obj\Debug\netstandard2.0\App_Blank_Prism.Core.csproj.CoreCompileInputs.cache
+D:\Users\udoug\source\repos\MyWindowsTemplatePackDemo\Solution4Original\App_Blank_Prism.Core\obj\Debug\netstandard2.0\App_Blank_Prism.Core.AssemblyInfoInputs.cache
+D:\Users\udoug\source\repos\MyWindowsTemplatePackDemo\Solution4Original\App_Blank_Prism.Core\obj\Debug\netstandard2.0\App_Blank_Prism.Core.AssemblyInfo.cs
