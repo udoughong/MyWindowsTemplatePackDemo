@@ -1,1 +1,0 @@
-D:\Users\udoug\source\repos\MyWindowsTemplatePackDemo\Solution4FrontEnd\App_NavigationPane_CodeBehind_MediaPlayer\App_NavigationPane_CodeBehind_MediaPlayer.csproj;arm

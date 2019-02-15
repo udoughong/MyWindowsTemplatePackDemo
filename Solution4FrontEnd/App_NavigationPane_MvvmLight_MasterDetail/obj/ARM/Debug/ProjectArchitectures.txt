@@ -1,1 +1,0 @@
-D:\Users\udoug\source\repos\MyWindowsTemplatePackDemo\Solution4FrontEnd\App_NavigationPane_MvvmLight_MasterDetail\App_NavigationPane_MvvmLight_MasterDetail.csproj;arm

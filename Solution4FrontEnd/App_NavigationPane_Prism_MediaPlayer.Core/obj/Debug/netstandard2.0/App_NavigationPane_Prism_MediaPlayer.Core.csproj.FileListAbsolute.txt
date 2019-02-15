@@ -1,9 +1,0 @@
-D:\Users\udoug\source\repos\MyWindowsTemplatePackDemo\Solution4FrontEnd\App_NavigationPane_Prism_MediaPlayer.Core\bin\Debug\netstandard2.0\App_NavigationPane_Prism_MediaPlayer.Core.deps.json
-D:\Users\udoug\source\repos\MyWindowsTemplatePackDemo\Solution4FrontEnd\App_NavigationPane_Prism_MediaPlayer.Core\bin\Debug\netstandard2.0\App_NavigationPane_Prism_MediaPlayer.Core.dll
-D:\Users\udoug\source\repos\MyWindowsTemplatePackDemo\Solution4FrontEnd\App_NavigationPane_Prism_MediaPlayer.Core\bin\Debug\netstandard2.0\App_NavigationPane_Prism_MediaPlayer.Core.pdb
-D:\Users\udoug\source\repos\MyWindowsTemplatePackDemo\Solution4FrontEnd\App_NavigationPane_Prism_MediaPlayer.Core\obj\Debug\netstandard2.0\App_NavigationPane_Prism_MediaPlayer.Core.csprojAssemblyReference.cache
-D:\Users\udoug\source\repos\MyWindowsTemplatePackDemo\Solution4FrontEnd\App_NavigationPane_Prism_MediaPlayer.Core\obj\Debug\netstandard2.0\App_NavigationPane_Prism_MediaPlayer.Core.csproj.CoreCompileInputs.cache
-D:\Users\udoug\source\repos\MyWindowsTemplatePackDemo\Solution4FrontEnd\App_NavigationPane_Prism_MediaPlayer.Core\obj\Debug\netstandard2.0\App_NavigationPane_Prism_MediaPlayer.Core.AssemblyInfoInputs.cache
-D:\Users\udoug\source\repos\MyWindowsTemplatePackDemo\Solution4FrontEnd\App_NavigationPane_Prism_MediaPlayer.Core\obj\Debug\netstandard2.0\App_NavigationPane_Prism_MediaPlayer.Core.AssemblyInfo.cs
-D:\Users\udoug\source\repos\MyWindowsTemplatePackDemo\Solution4FrontEnd\App_NavigationPane_Prism_MediaPlayer.Core\obj\Debug\netstandard2.0\App_NavigationPane_Prism_MediaPlayer.Core.dll
-D:\Users\udoug\source\repos\MyWindowsTemplatePackDemo\Solution4FrontEnd\App_NavigationPane_Prism_MediaPlayer.Core\obj\Debug\netstandard2.0\App_NavigationPane_Prism_MediaPlayer.Core.pdb

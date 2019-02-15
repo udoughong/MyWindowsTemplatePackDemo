@@ -1,1 +1,0 @@
-D:\Users\udoug\source\repos\MyWindowsTemplatePackDemo\Solution4FrontEnd\App_NavigationPane_CodeBehind_Blank\App_NavigationPane_CodeBehind_Blank.csproj;arm

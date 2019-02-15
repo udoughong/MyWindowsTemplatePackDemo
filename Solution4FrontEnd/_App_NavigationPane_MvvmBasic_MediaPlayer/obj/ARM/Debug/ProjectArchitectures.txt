@@ -1,1 +1,0 @@
-D:\Users\udoug\source\repos\MyWindowsTemplatePackDemo\Solution4FrontEnd\_App_NavigationPane_MvvmBasic_MediaPlayer\_App_NavigationPane_MvvmBasic_MediaPlayer.csproj;arm
